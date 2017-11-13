@@ -7,20 +7,20 @@ To access the the client side app built with jQuery: [https://jf-lalonde.github.
   <dt>To Run Locally</dt>
   <dd>Clone this repo</dd>
   <dd>Install Node Packages</dd>
- ```javascript
-  npm init
+ ```npm init
   npm i express --save
   npm install nodemon --save-dev
   npm install knex pg --save
-  npm install knex -g 
-  ``` 
+  npm install knex -g ``` 
+  
   <dd>Setup Database</dd>
-  <dd> ```SQL
+  <dd> 
+  ```
   $ psql
   CREATE DATABASE foods;
   CREATE DATABASE meals;
   knex migrate:latest
-  knex seed:run
-  ```
+  knex seed:run```
+  
   </dd>
 </dl>
