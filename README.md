@@ -7,7 +7,7 @@ To access the the client side app built with jQuery: [https://jf-lalonde.github.
   <dt>To Run Locally</dt>
   <dd>Clone this repo</dd>
   <dd>Install Node Packages</dd>
-  <dd> ```javascript
+ ```javascript
   npm init
   npm i express --save
   npm install nodemon --save-dev
@@ -22,4 +22,5 @@ To access the the client side app built with jQuery: [https://jf-lalonde.github.
   knex migrate:latest
   knex seed:run
   ```
+  </dd>
 </dl>
