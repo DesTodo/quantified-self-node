@@ -22,4 +22,5 @@ To access the the client side app built with jQuery: [https://jf-lalonde.github.
   CREATE DATABASE foods;
   CREATE DATABASE meals;
   knex migrate:latest
-  knex seed:run```
+  knex seed:run
+  ```
