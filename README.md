@@ -1,7 +1,10 @@
-## Quantified Self Backend App: API Endpoints replicated from Rails using Node.js
+### Quantified Self Backend:
 
-### This is the backend part of an app to provide data and endpoints for a single user calory tracking application; it is built in NodeJS and Express. 
-To access the the client side app built with jQuery: [https://jf-lalonde.github.io/quantified-self/foods] [https://jf-lalonde.github.io/quantified-self/] 
+Backend app providing API endpoints and data for a single user calory tracking application.It is built with NodeJS and Express. 
+
+[Access client side app built with jQuery: foods](https://jf-lalonde.github.io/quantified-self/foods) 
+
+[Access client side app built with jQuery: meals](https://jf-lalonde.github.io/quantified-self/)
 
   **To Run Locally**
   
